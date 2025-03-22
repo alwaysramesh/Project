@@ -1,5 +1,6 @@
 Key Insights from Walmart Retail Trends Analysis:
 Sales & Profit Growth (2019-2022)
+https://github.com/alwaysramesh/Project/blob/main/Screenshot%20(509).png
 
 Profitability consistently increased from 11.36% in 2019 to 19.02% in 2021, followed by a slight dip to 15.45% in 2022.
 
